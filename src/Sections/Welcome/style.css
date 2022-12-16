@@ -1,0 +1,29 @@
+.Welcome {
+  background: center center no-repeat;
+  background-size: cover;
+  background-image: linear-gradient(#10141800, #101418),
+    url("../../images/Welcome-bg.png");
+  height: 894px;
+  color: white;
+  padding-top: 131px;
+}
+
+.Welcome .content {
+  text-align: center;
+}
+
+.Welcome .content h1 {
+width: 355px;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+margin: auto;
+color: #FFFCCC;
+margin-bottom: 18px;
+}
+
+.Welcome .content p {
+  font-weight: 700;
+font-size: 18px;
+margin-bottom: 47px;
+}

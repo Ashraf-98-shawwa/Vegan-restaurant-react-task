@@ -1,0 +1,14 @@
+.Kitchen {
+  background: center center no-repeat;
+  background-image: url("../../images/black-bg.png");
+  color: #fffffc;
+  padding-top: 49px;
+  padding-bottom: 136px;
+}
+
+.Kitchen .items {
+height: 95vh;
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+}
