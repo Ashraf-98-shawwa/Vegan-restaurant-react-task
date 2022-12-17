@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/Vegan-restaurant-react-task/static/css/main.18a0cedb.css",
+    "main.css": "/Vegan-restaurant-react-task/static/css/main.e6294bf9.css",
     "main.js": "/Vegan-restaurant-react-task/static/js/main.8ad609c9.js",
     "static/js/787.570e800c.chunk.js": "/Vegan-restaurant-react-task/static/js/787.570e800c.chunk.js",
-    "static/media/black-bg.png": "/Vegan-restaurant-react-task/static/media/black-bg.a8113ec1af37525d9e8f.png",
+    "static/media/black.png": "/Vegan-restaurant-react-task/static/media/black.c58b8bf9e66a269d10b5.png",
     "static/media/Welcome-bg.png": "/Vegan-restaurant-react-task/static/media/Welcome-bg.bf8c28f91f4b02a4746e.png",
     "static/media/ingredients.png": "/Vegan-restaurant-react-task/static/media/ingredients.d8c28943a788803fdb18.png",
     "static/media/blog1.png": "/Vegan-restaurant-react-task/static/media/blog1.249cfde5895c509072fa.png",
@@ -24,12 +24,12 @@
     "static/media/4.png": "/Vegan-restaurant-react-task/static/media/4.6f5c4211adaff586cee5.png",
     "static/media/8.png": "/Vegan-restaurant-react-task/static/media/8.6f5c4211adaff586cee5.png",
     "index.html": "/Vegan-restaurant-react-task/index.html",
-    "main.18a0cedb.css.map": "/Vegan-restaurant-react-task/static/css/main.18a0cedb.css.map",
+    "main.e6294bf9.css.map": "/Vegan-restaurant-react-task/static/css/main.e6294bf9.css.map",
     "main.8ad609c9.js.map": "/Vegan-restaurant-react-task/static/js/main.8ad609c9.js.map",
     "787.570e800c.chunk.js.map": "/Vegan-restaurant-react-task/static/js/787.570e800c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18a0cedb.css",
+    "static/css/main.e6294bf9.css",
     "static/js/main.8ad609c9.js"
   ]
 }
