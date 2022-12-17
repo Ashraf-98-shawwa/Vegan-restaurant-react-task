@@ -7,6 +7,9 @@ import Toaction from "../Sections/Toaction";
 import Ingredients from "../Sections/Ingredients";
 import Statistics from "../Sections/Statistics";
 import Reviews from "../Sections/Reviews";
+import Blogs from "../Sections/Blogs";
+import Info from "../Sections/Info";
+import Footer from "../Sections/Footer";
 
 export default function Home() {
   return (
@@ -19,6 +22,9 @@ export default function Home() {
       <Ingredients />
       <Statistics />
       <Reviews />
+      <Blogs />
+      <Info />
+      <Footer />
     </div>
   );
 }
