@@ -5,6 +5,8 @@ import Special from "../Sections/Special";
 import Kitchen from "../Sections/Kitchen";
 import Toaction from "../Sections/Toaction";
 import Ingredients from "../Sections/Ingredients";
+import Statistics from "../Sections/Statistics";
+import Reviews from "../Sections/Reviews";
 
 export default function Home() {
   return (
@@ -15,6 +17,8 @@ export default function Home() {
       <Kitchen />
       <Toaction />
       <Ingredients />
+      <Statistics />
+      <Reviews />
     </div>
   );
 }
