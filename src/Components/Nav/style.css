@@ -4,8 +4,7 @@ nav {
   margin: auto;
   display: flex;
   margin-bottom: 284px;
-  width: 
-988px;
+  width: 988px;
 }
 
 nav ul {
@@ -22,8 +21,13 @@ nav ul {
   color: #ffffcc;
   cursor: pointer;
 }
+
+nav ul li {
+  border-bottom: 2px solid transparent;
+}
 nav ul li.active {
-border-bottom: 2px solid  #a08040;}
+  border-bottom: 2px solid #a08040;
+}
 
 nav .BookBtn {
   width: 272px;
@@ -44,23 +48,22 @@ nav .BookBtn {
 }
 
 nav .BookBtn::after {
-    content: "";
-    display: block;
-    width: 35px;
-    height: 2px;
-    background-color: #fff;
-    position: absolute;
-    top: 50%;
-    left: 10%;
-    
+  content: "";
+  display: block;
+  width: 35px;
+  height: 2px;
+  background-color: #fff;
+  position: absolute;
+  top: 50%;
+  left: 10%;
 }
 nav .BookBtn::before {
-    content: "";
-    display: block;
-    width: 35px;
-    height: 2px;
-    background-color: #fff;
-        position: absolute;
-    top: 50%;
-    right: 10%;
+  content: "";
+  display: block;
+  width: 35px;
+  height: 2px;
+  background-color: #fff;
+  position: absolute;
+  top: 50%;
+  right: 10%;
 }

@@ -8,7 +8,7 @@ export default function Welcome() {
   return (
     <section className="Welcome">
       <Container>
-        <Nav />
+        <Nav mypage="Home" />
         <div className="content">
           <h1>Welcome To Golden View Dine </h1>
           <p>Explore the authentic vegan dishes with your friends and family</p>
