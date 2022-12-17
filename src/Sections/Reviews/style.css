@@ -5,6 +5,8 @@
   padding-top: 100px;
   padding-bottom:  12px;
   overflow: hidden;
+    background-size: cover;
+
 }
 
 .Reviews p {

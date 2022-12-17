@@ -2,6 +2,8 @@
   background: center center no-repeat;
   background-image: url("../../images/black-bg.png");
   color: #fffffc;
+    background-size: cover;
+
 }
 
 .Info .overlay {
