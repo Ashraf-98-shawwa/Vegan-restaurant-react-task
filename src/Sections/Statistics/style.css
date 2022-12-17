@@ -1,8 +1,8 @@
 .Statistics {
   background: center center no-repeat;
-  background-image: url("../../images/black-bg.png");
+  background-image: url("../../images/black.png");
   color: #fffffc;
-    /* background-size: cover; */
+    background-size: cover;
 
 }
 

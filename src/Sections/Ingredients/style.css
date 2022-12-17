@@ -1,9 +1,9 @@
 .Ingredients {
   background: center center no-repeat;
-  background-image: url("../../images/black-bg.png");
+  background-image: url("../../images/black.png");
   color: #fffffc;
   padding-top: 103px;
-    /* background-size: cover; */
+    background-size: cover;
 
 }
 
